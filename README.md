@@ -1,11 +1,19 @@
-To run this project in your pc follow below steps
-1.Clone or download zip file of the code
-2.Ensure that react is installed 
-3.To start the react project 
+To run this project in your pc follow below steps.
+
+1.Clone or download zip file of the code.
+
+2.Ensure that react is installed.
+
+3.To start the react project.
+
   ->open terminal and type 
+  
     npm run start
-  ->open another terminal and type 
+    
+  ->open another terminal and type
+  
     npx json-server --watch data/db.json --port 8000
+    
     (it is needed to store blog data in json local server)
 
 
